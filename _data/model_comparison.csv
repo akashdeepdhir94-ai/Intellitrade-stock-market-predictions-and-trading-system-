@@ -1,0 +1,4 @@
+Model,RMSE
+ARIMA,12.5
+Prophet,10.2
+LSTM,8.7
